@@ -1,0 +1,10 @@
+print("Oi, qual o seu nome? Digite abaixo por favo.")
+nome = input()
+print("em qual cidade voce nasceu?")
+cidade = input()
+print("Qual sua idade?")
+idade = input()
+
+print("Obrigado pelas informações!")
+print("Voce é", nome, "natural da cidada de" , cidade)
+print("Atualmente voce tem", idade, "anos")
