@@ -9,4 +9,3 @@ while n <= 10: # inicialização while externo + condição n <= 10
 
     print()
     n += 1 # atualização do while externo
-    
